@@ -4,17 +4,17 @@ Based off the CryptoNote protocol.
 
 Please note this cryptocurrency is not live and has no intention of going live. It is made purely for demonstration purposes.
 
-    Specifications
+**Specifications**
 Blocks: 500000000
 Supply: 858986905600000000 (default)
 Block Re-targeting: 2 Minutes // 120 seconds.
 
-    Research
+**Research**
 Adding Dagger from Ethereum Protocol
 Increasing UXTO
 
-    Todo
+**Todo**
 Add MAC/LINUX Wallets
 
-    Contribute
+**Contribute**
 Contributions are welcome, email me at: hamxayaxin@gmail.com
